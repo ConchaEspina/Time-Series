@@ -4,4 +4,4 @@ This is a summary of *Time Series Analysis with Application in R (Second Edition
 For team project of course Time Series (2020Fall)    
 Contributor: Wenqing Qian, Ruyu Dai & Chenghao Yu    
 Language: Chinese     
-Powered by Gitbook ;)
+Powered by GitBook ;)
